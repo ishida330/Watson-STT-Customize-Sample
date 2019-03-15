@@ -1,0 +1,13 @@
+{
+   "words":[
+      {"word":"200","sounds_like":["ニヒャク"],"display_as":"200"},
+      {"word":"ペタフロップス","sounds_like":["ペタフロップス"],"display_as":"ペタフロップス"},
+      {"word":"並列度","sounds_like":["ヘイレツ"],"display_as":"並列度"},
+      {"word":"ノード","sounds_like":["ノード"],"display_as":"ノード"},
+      {"word":"Power9","sounds_like":["パワーナイン"],"display_as":"Power9"},
+      {"word":"コア","sounds_like":["コア"],"display_as":"コア"},
+      {"word":"SMT","sounds_like":["エスエムティ"],"display_as":"SMT"},
+      {"word":"GPU","sounds_like":["ジーピーユー"],"display_as":"GPU"},
+      {"word":"NVIDIA","sounds_like":["エヌビディア"],"display_as":"NVIDIA"}
+   ]
+}
