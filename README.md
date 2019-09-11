@@ -5,7 +5,7 @@
 Qiita記事「[WatsonのSpeech To Text(STT)をカスタマイズすれば「俺のSTT」を作れるよ](https://qiita.com/ishida330/items/1d1844f7b0d52fe59bd2)」でご紹介したWatson STTのカスタマイズ体験キットです。
 
 - Jupyter Notebook & Python3のローカル環境が必要です
-- Watson Python SDKを未導入なら　pip install --upgrade watson-developer-cloud　で
+- Watson Python SDKを未導入なら　pip install --upgrade ibm-watson　で
 - git cloneしてSTT_Customize.ipynbを開いてください
 - サンプルの音声ファイルは mp3ディレクトリにあります
 - Transcript.json - サンプルの用語辞書
